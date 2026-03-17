@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AI-Resume-Analyzer/static/css/main.7bf77053.css",
+    "main.js": "/AI-Resume-Analyzer/static/js/main.2f442d27.js",
+    "static/js/453.825386d9.chunk.js": "/AI-Resume-Analyzer/static/js/453.825386d9.chunk.js",
+    "index.html": "/AI-Resume-Analyzer/index.html",
+    "main.7bf77053.css.map": "/AI-Resume-Analyzer/static/css/main.7bf77053.css.map",
+    "main.2f442d27.js.map": "/AI-Resume-Analyzer/static/js/main.2f442d27.js.map",
+    "453.825386d9.chunk.js.map": "/AI-Resume-Analyzer/static/js/453.825386d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bf77053.css",
+    "static/js/main.2f442d27.js"
+  ]
+}
